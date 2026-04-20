@@ -1,0 +1,16 @@
+
+llava:
+  llava-1.5-7b:
+    model_path: LLaVA/LLaVA-main/llava-v1.5-7b
+    model_base: null
+    model_name: llava-v1.5-7b
+  
+
+qwen:
+  qwen-chat-7b:
+    pretrained_model_name_or_path: Qwen/Qwen-VL-Chat
+    
+
+internvl2:
+  internvl2-8b:
+    model_path: OpenGVLab/InternVL2-8B

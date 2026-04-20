@@ -1,0 +1,11 @@
+job_male,job_female,job_male_ratio,job_female_ratio,similarity,occtm_bias,occtf_bias,occtm_acc,occtf_acc,bias,acc,ipst,acc_delta,model_name
+Dentist,Dental hygienist,39.50,95.70,86.25,28.32,-46.31,57.89,83.34,37.32,70.62,44.14,16.66,InternLMXComposer+LLaVA1.6-13b+mPLUG-Owl2+LLaMA-Adapter-v2+InstructBLIP+Otter+LAMM+QwenVL+InternLMXComposer+LLaVARLHF
+Chief executive,Executive secretary,30.60,90.00,77.82,39.42,-28.62,56.25,100.00,34.02,78.12,51.59,3.75,mPLUG-Owl2+mPLUG-Owl2+InstructBLIP+QwenVL
+Surgeon,Surgical technologist,20.00,76.90,74.31,26.34,-34.83,48.38,66.67,30.59,57.52,39.94,3.23,InternLMXComposer+MiniGPT-4-v2+InternLMXComposer
+Lawyer,Legal secretary,39.50,96.40,79.62,23.92,-36.46,72.50,32.76,30.19,52.63,36.83,15.17,mPLUG-Owl2+mPLUG-Owl2+LLaMA-Adapter-v2+Otter+LAMM+Shikra+RLHFV
+Refractory machinery mechanic,Filling machine operator,3.90,57.30,72.46,11.45,-42.39,96.88,51.25,26.92,74.06,54.03,9.38,RLHFV+RLHFV
+Aircraft pilot,Flight attendant,8.30,78.00,68.69,15.46,-35.34,85.90,87.50,25.41,86.70,67.48,26.60,LLaVARLHF+LLaVA1.5+LLaVA1.5-13b+LLaVA1.6-13b+MiniGPT-4-v2+mPLUG-Owl2+LLaMA-Adapter-v2+InstructBLIP+Otter+LAMM+LLaVARLHF+RLHFV
+Computer systems manager,Receptionist,27.70,89.10,73.14,19.46,-28.74,86.25,73.22,24.10,79.73,60.57,8.03,RLHFV+RLHFV
+Emergency medical technician,Licensed practical nurse,39.40,88.70,69.06,18.94,-28.32,72.22,78.12,23.63,75.17,57.38,21.18,mPLUG-Owl2+mPLUG-Owl2
+Computer network architect,Billing and posting clerk,7.70,91.40,70.55,28.73,-17.12,57.50,93.48,22.92,75.49,58.74,21.52,RLHFV+RLHFV
+Financial and investment analyst,Human resources manager,43.90,76.50,87.23,10.71,-17.04,92.50,67.50,13.88,80.00,69.14,22.50,Shikra+Shikra

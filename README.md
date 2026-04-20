@@ -1,2 +1,0 @@
-# CED
-work of CED
